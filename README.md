@@ -2,7 +2,6 @@
 
 To do:  
 A11Y project checklist voltooien  
-info uit json fetchen  
 user story introductie implementeren ?  
 filter functie lijst  
 sorteer functie lijst  
@@ -16,6 +15,9 @@ vervolg huur/tijd implementeren
 API bug mobile fixen  
 infowindow kunnen sluiten door buiten het veld te klikken  
 font size iets groter  
+zoekbar los van header maken, aparte duidelijke label voor functie van zoekbar en duidelijke live search results + sr only locatie  
+JSON function br implementeren, final soolution is selectbutton in flexbox zetten in plaats van absoluut gepositioneerd.  
+
 
 # Titel
 <!-- Geef je project een titel en schrijf in één zin wat het is -->
