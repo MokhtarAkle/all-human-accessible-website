@@ -7,7 +7,6 @@ filter functie lijst
 sorteer functie lijst  
 zoek functie implementeren  
 rood op blauw contrast ?  
-zoek button naast zoekbar  
 smart zones custom rectangle size gebaseerd op parkeer grootte  
 side out button verbeteren  
 infowindow knop beschikbaar maken  
@@ -16,7 +15,6 @@ API bug mobile fixen
 infowindow kunnen sluiten door buiten het veld te klikken  
 font size iets groter  
 zoekbar los van header maken, aparte duidelijke label voor functie van zoekbar en duidelijke live search results + sr only locatie  
-JSON function br implementeren, final soolution is selectbutton in flexbox zetten in plaats van absoluut gepositioneerd.  
 
 
 # Titel
