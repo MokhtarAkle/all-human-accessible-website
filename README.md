@@ -1,20 +1,20 @@
 > _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je, zoals altijd, in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
 To do:  
+
+lang:
 A11Y project checklist voltooien  
 user story introductie implementeren ?  
 filter functie lijst  
 sorteer functie lijst  
 zoek functie implementeren  
-rood op blauw contrast ?  
 smart zones custom rectangle size gebaseerd op parkeer grootte  
-side out button verbeteren  
-infowindow knop beschikbaar maken  
-vervolg huur/tijd implementeren  
-API bug mobile fixen  
-infowindow kunnen sluiten door buiten het veld te klikken  
-font size iets groter  
+vervolg huur/tijd implementeren  + infowindow knop beschikbaar maken  
+
+kort:
+rood op blauw contrast ?  
 zoekbar los van header maken, aparte duidelijke label voor functie van zoekbar en duidelijke live search results + sr only locatie  
+
 
 
 # Titel
