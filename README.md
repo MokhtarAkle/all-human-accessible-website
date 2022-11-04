@@ -4,17 +4,13 @@ To do:
 
 lang:
 A11Y project checklist voltooien  
-user story introductie implementeren ?  
 filter functie lijst  
 sorteer functie lijst  
 zoek functie implementeren  
-smart zones custom rectangle size gebaseerd op parkeer grootte  
-vervolg huur/tijd implementeren  + infowindow knop beschikbaar maken  
+
 
 kort:
 rood op blauw contrast ?  
-zoekbar los van header maken, aparte duidelijke label voor functie van zoekbar en duidelijke live search results + sr only locatie  
-
 
 
 # Titel
