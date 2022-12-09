@@ -7,7 +7,7 @@ A11Y project checklist voltooien
 filter functie lijst  
 sorteer functie lijst  
 zoek functie implementeren  
-
+toepas knop filter + sort
 
 kort:
 rood op blauw contrast ?  
